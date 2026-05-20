@@ -102,23 +102,31 @@ Tailwind CSS	Styling
 ## Project Structure
 
 
+## 📁 Project Structure
 jsonforge/
+├── public/
+│ └── favicon.svg
 ├── src/
-│   ├── components/
-│   │   └── TreeView.tsx      # Tree visualization component
-│   ├── hooks/
-│   │   └── useLocalStorage.ts # Local storage hook
-│   ├── App.tsx                # Main application component
-│   ├── main.tsx               # Application entry point
-│   └── index.css              # Global styles
-├── public/                    # Static assets
-├── index.html                 # HTML template
-├── package.json               # Project dependencies
-├── tsconfig.json              # TypeScript configuration
-├── vite.config.ts             # Vite configuration
-├── tailwind.config.js         # Tailwind CSS configuration
-└── README.md                  # Project documentation
-
+│ ├── components/
+│ │ └── TreeView.tsx
+│ ├── hooks/
+│ │ └── useLocalStorage.ts
+│ ├── App.tsx
+│ ├── main.tsx
+│ ├── index.css
+│ └── vite-env.d.ts
+├── index.html
+├── package.json
+├── package-lock.json
+├── tsconfig.json
+├── tsconfig.app.json
+├── tsconfig.node.json
+├── vite.config.ts
+├── tailwind.config.js
+├── postcss.config.js
+├── .eslintrc.cjs
+├── .gitignore
+└── README.md
 ---
 
 ## Configuration
