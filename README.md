@@ -7,6 +7,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.3.3-3178c6)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+**[ LIVE DEMO](https://jsonforge-sooty.vercel.app)** 
+
 ---
 
 ##  Features
@@ -30,7 +32,7 @@
 
 
 # Clone the repository
-git clone https://github.com/yourusername/jsonforge.git
+git clone https://github.com/nazicenn/Jsonforge.git
 cd jsonforge
 
 # Install dependencies
