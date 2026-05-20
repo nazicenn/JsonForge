@@ -51,21 +51,21 @@ npm run preview
 
 ## Usage Guide
 
-**Validator Tab**
+Validator Tab
 Enter or paste JSON in the input panel
 
 Click "Validate" button
 
 View validation results and error locations
 
-**Formatter Tab**
+Formatter Tab
 Enter JSON in the input panel
 
 Choose indentation size (2 or 4 spaces)
 
 Click "Format" for pretty print or "Minify" for compact view
 
-**Tree View**
+Tree View
 Validate your JSON first
 
 Click "Tree" button to visualize structure
