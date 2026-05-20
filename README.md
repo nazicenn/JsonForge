@@ -31,20 +31,20 @@
 ### Installation
 
 
-# Clone the repository
+### Clone the repository
 git clone https://github.com/nazicenn/Jsonforge.git
 cd jsonforge
 
-# Install dependencies
+### Install dependencies
 npm install
 
 # Start development server
 npm run dev
 
-# Build the application
+### Build the application
 npm run build
 
-# Preview the production build
+### Preview the production build
 npm run preview
 
 ---
