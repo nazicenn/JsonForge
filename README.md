@@ -9,22 +9,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [Features](#-features)
-- [Quick Start](#-quick-start)
-- [Build for Production](#-build-for-production)
-- [Usage Guide](#-usage-guide)
-- [Tech Stack](#-tech-stack)
-- [Project Structure](#-project-structure)
-- [Configuration](#-configuration)
-- [Keyboard Shortcuts](#-keyboard-shortcuts)
-- [Editor Options](#-editor-options)
-- [Troubleshooting](#-troubleshooting)
-- [License](#-license)
-
----
-
 ##  Features
 
 | Category | Features |
