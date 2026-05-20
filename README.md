@@ -99,36 +99,6 @@ Tailwind CSS	Styling
 
 ---
 
-## Project Structure
-
-
-## 📁 Project Structure
-jsonforge/
-├── public/
-│ └── favicon.svg
-├── src/
-│ ├── components/
-│ │ └── TreeView.tsx
-│ ├── hooks/
-│ │ └── useLocalStorage.ts
-│ ├── App.tsx
-│ ├── main.tsx
-│ ├── index.css
-│ └── vite-env.d.ts
-├── index.html
-├── package.json
-├── package-lock.json
-├── tsconfig.json
-├── tsconfig.app.json
-├── tsconfig.node.json
-├── vite.config.ts
-├── tailwind.config.js
-├── postcss.config.js
-├── .eslintrc.cjs
-├── .gitignore
-└── README.md
----
-
 ## Configuration
 
 Editor Options
@@ -207,3 +177,13 @@ Made with ❤️ for developers who need professional JSON tools
 Report Bug · Request Feature
 
 </div> 
+
+
+---
+
+<img width="500" height="300" alt="Ekran görüntüsü 2026-05-20 064546" src="https://github.com/user-attachments/assets/6862a897-f11c-4a4a-9627-afd01cbede02" />
+
+<img width="500" height="300" alt="Ekran görüntüsü 2026-05-20 064610" src="https://github.com/user-attachments/assets/70f1157f-e911-4c89-a40b-5dfb359ec351" />
+
+<img width="500" height="300" alt="Ekran görüntüsü 2026-05-20 064559" src="https://github.com/user-attachments/assets/35f36fe9-a9c7-4af0-b1e6-ab7642a9c4b5" />
+
